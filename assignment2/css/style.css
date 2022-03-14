@@ -1,0 +1,30 @@
+.header {
+    background-color: rgb(194, 200, 206);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.align {
+    flex-wrap: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.About-me {
+    background-color:rgba(199, 166, 139, 0.753);
+    font-size: large;
+    flex-wrap: wrap;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.work-section {
+   background-color: antiquewhite;
+}
+.heading2 {
+    background-color: rgb(180, 157, 127);
+}
